@@ -1,6 +1,6 @@
 # GitHub Marco Antonio Morenilla Alonso
 
-![Imagen Gato](recursos/gatito.jpg)
+![Imagen Huron](recursos/huron.jpg)
 
 ## Contenido
 

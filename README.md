@@ -1,16 +1,21 @@
-### Hi there 👋
+# GitHub Marco Antonio Morenilla Alonso
 
-<!--
-**marcomorenilla/marcomorenilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Imagen Gato](recursos/gatito.jpg)
 
-Here are some ideas to get you started:
+## Contenido
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Proyectos educativos
+
+En esta sección iré poniendo todos los proyectos que haga en la UAX
+
+### Proyectos personales
+
+Aquí subiré cosas que me vaya inventando yo
+
+## Información personal
+
+DAM UAX
+
+## Información laboral
+
+Actualmente trabajando en Pharmamar como técnico de laboratorio

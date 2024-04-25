@@ -17,5 +17,5 @@ Aquí subiré cosas que me vaya inventando yo
 DAM UAX
 
 ## Información laboral
-
+[LinkedIn Marco Antonio Morenilla Alonso](https://es.linkedin.com/in/marco-antonio-morenilla-alonso-826b0490)
 Actualmente trabajando en Pharmamar como técnico de laboratorio

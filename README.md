@@ -8,19 +8,19 @@
 
 ### 1.1 Proyectos educativos
 
-[x] ~~Primer repositorio GitHub~~
-[] Proyecto Intermodular:
---[x] ~~Programación~~.
---[x] ~~Bases de datos~~
---[x] ~~Sistemas Informáticos~~
---[] Lenguaje de Marcas
+- [x] ~~Primer repositorio GitHub~~
+- [ ] Proyecto Intermodular:
+    - [x] ~~Programación~~.
+    - [x] ~~Bases de datos~~
+    - [x] ~~Sistemas Informáticos~~
+    - [ ] Lenguaje de Marcas
 
 ### 1.2 Proyectos personales
 
-[] Tres en Raya en Python
-[] Bot Telegram en Python
-[] Interfaz formulario BBDD en Java
-[] Diseño web con php CV
+- [ ] Tres en Raya en Python
+- [ ] Bot Telegram en Python
+- [ ] Interfaz formulario BBDD en Java
+- [ ] Diseño web con php CV
 
 ## 2. Información personal
 

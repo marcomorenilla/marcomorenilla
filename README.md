@@ -6,22 +6,31 @@
 
 ## 1. Proyectos
 
-### 1.1 Proyectos educativos
-
-- [x] ~~Primer repositorio GitHub~~
-- [ ] Proyecto Intermodular:
-    - [x] ~~Programación~~.
-    - [x] ~~Bases de datos~~
-    - [x] ~~Sistemas Informáticos~~
-    - [ ] Lenguaje de Marcas
 ***
 
-#### 1.1.1 Reto Git 
+## Reto Git 
 
 ***
 
-Realizamos un proyecto para realizar el primer desarrollo en **Java** aprovechando el sistema de control de versiones de **GitHub**
+Realizamos un proyecto para realizar el primer desarrollo en **Java** aprovechando el sistema de control de versiones de **GitHub**.
+Es un proyecto de ejemplo con código en clase Main
 
+``` java 
+public class Main {
+    public static void main(String [] args){
+        System.out.println("Hola");
+    }
+}
+```
+
+y clase Persona
+
+```
+public class Persona {
+private String nombre;
+private String dni;
+}
+````
 Las acciones realizadas son:
 
 | Acción                   | Descripción                                    |
@@ -34,8 +43,20 @@ Las acciones realizadas son:
 | Comprobamos cambios      | Creamos Pull Request del proyecto              |
 | Fusionamos ramas         | Hacemos un Merge con la rama principal         |
 
+![imagen GitHub](recursos/github.jpg)
+
 ***
 
+### 1.1 Proyectos educativos
+
+- [x] ~~Primer repositorio GitHub~~
+- [ ] Proyecto Intermodular:
+    - [x] ~~Programación~~.
+    - [x] ~~Bases de datos~~
+    - [x] ~~Sistemas Informáticos~~
+    - [ ] Lenguaje de Marcas
+
+***
 
 ### 1.2 Proyectos personales
 

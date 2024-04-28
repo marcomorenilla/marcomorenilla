@@ -14,7 +14,9 @@
     - [x] ~~Bases de datos~~
     - [x] ~~Sistemas Informáticos~~
     - [ ] Lenguaje de Marcas
-#### Reto Git 
+***
+
+#### 1.1.1 Reto Git 
 
 ***
 
@@ -41,6 +43,8 @@ Las acciones realizadas son:
 - [ ] Bot Telegram en Python
 - [ ] Interfaz formulario BBDD en Java
 - [ ] Diseño web con php CV
+      
+***
 
 ## 2. Información personal
 
@@ -50,5 +54,9 @@ Empecé viendo algunas macros de Excel que utilizaba diariamente en mi trabajo y
 
 Desde entonces sentarme delante del ordenado poco a poco se ha ido convirtiendo en un **hobby** y cada día tengo más curiosidad por aprender cosas nuevas y afrontar nuevos retos.
 
+***
+
 ## 3. Información laboral
 [Marco Antonio Morenilla Alonso](https://es.linkedin.com/in/marco-antonio-morenilla-alonso-826b0490)
+
+***

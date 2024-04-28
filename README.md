@@ -13,7 +13,7 @@
 ***
 
 Realizamos un proyecto para realizar el primer desarrollo en **Java** aprovechando el sistema de control de versiones de **GitHub**.
-Es un proyecto de ejemplo con código en clase Main
+Es un proyecto de ejemplo con código en clase Main y clase Persona.
 
 ``` java 
 public class Main {
@@ -22,10 +22,7 @@ public class Main {
     }
 }
 ```
-
-y clase Persona
-
-```
+```java
 public class Persona {
 private String nombre;
 private String dni;
@@ -50,6 +47,7 @@ Las acciones realizadas son:
 ### 1.1 Proyectos educativos
 
 - [x] ~~Primer repositorio GitHub~~
+    - [x] ~~Reto GitHub~~
 - [ ] Proyecto Intermodular:
     - [x] ~~Programación~~.
     - [x] ~~Bases de datos~~

@@ -14,6 +14,26 @@
     - [x] ~~Bases de datos~~
     - [x] ~~Sistemas Informáticos~~
     - [ ] Lenguaje de Marcas
+#### Reto Git 
+
+***
+
+Realizamos un proyecto para realizar el primer desarrollo en **Java** aprovechando el sistema de control de versiones de **GitHub**
+
+Las acciones realizadas son:
+
+| Acción                   | Descripción                                    |
+|:------------------------:|:-----------------------------------------------|
+| Añadir repositorio       | Creamos un repositorio en GitHub               |
+| Subimos carpeta          | Realizamos el primer commit del proyecto       |
+| Añadimos rama            | Creamos rama de desarrollo para el proyecto    |
+| Añadir proyecto a local  | Clonamos el repositorio en local               |
+| Modificamos el proyecto  | Realizamos los correspondientes commit y push  |
+| Comprobamos cambios      | Creamos Pull Request del proyecto              |
+| Fusionamos ramas         | Hacemos un Merge con la rama principal         |
+
+***
+
 
 ### 1.2 Proyectos personales
 

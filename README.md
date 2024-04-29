@@ -8,11 +8,11 @@
 
 ***
 
-## __Reto Git__ 
+## Reto Git
 
 ***
 
-Realizamos un proyecto para realizar el primer desarrollo en **Java** aprovechando el sistema de control de versiones de **GitHub**.
+Realizamos un proyecto para realizar el primer desarrollo en __**Java**__ aprovechando el sistema de __**control**__ de __**versiones**__ de __**GitHub**__.
 Es un proyecto de ejemplo con código en clase Main y clase Persona.
 
 ``` java 

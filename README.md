@@ -46,15 +46,13 @@ Las acciones realizadas son:
 
 ### 1.1 Proyectos educativos
 
-- [x] ~~Primer repositorio GitHub~~
-    - [x] ~~Reto GitHub~~
-- [ ] Proyecto Intermodular:
+- [ ] Proyecto Intermodular primero DAM:
     - [x] ~~Programación~~
     - [x] ~~Bases de datos~~
     - [x] ~~Sistemas Informáticos~~
     - [x] ~~Lenguaje de Marcas~~
     - [ ] Conectar proyectos:
-       - [x] Crear PHP de parte de Lenguaje de Marcas con BBDD de Bases de Datos
+       - [x] ~~Crear PHP de parte de Lenguaje de Marcas con BBDD de Bases de Datos~~
        - [ ] Incluir UML caso de uso
        - [ ] Incluir diagrama de Gantt
        - [ ] Avisos legales de web

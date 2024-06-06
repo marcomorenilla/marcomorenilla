@@ -49,10 +49,15 @@ Las acciones realizadas son:
 - [x] ~~Primer repositorio GitHub~~
     - [x] ~~Reto GitHub~~
 - [ ] Proyecto Intermodular:
-    - [x] ~~Programación~~.
+    - [x] ~~Programación~~
     - [x] ~~Bases de datos~~
     - [x] ~~Sistemas Informáticos~~
-    - [ ] Lenguaje de Marcas
+    - [x] ~~Lenguaje de Marcas~~
+    - [ ] Conectar proyectos:
+       - [x] Crear PHP de parte de Lenguaje de Marcas con BBDD de Bases de Datos
+       - [ ] Incluir UML caso de uso
+       - [ ] Incluir diagrama de Gantt
+       - [ ] Avisos legales de web
 
 ***
 

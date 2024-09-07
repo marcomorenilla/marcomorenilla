@@ -6,43 +6,6 @@
 
 ## 1. Proyectos
 
-***
-
-## Reto Git
-
-***
-
-Realizamos un proyecto para realizar el primer desarrollo en __**Java**__ aprovechando el sistema de __**control**__ de __**versiones**__ de __**GitHub**__.
-Es un proyecto de ejemplo con código en clase Main y clase Persona.
-
-``` java 
-public class Main {
-    public static void main(String [] args){
-        System.out.println("Hola");
-    }
-}
-```
-```java
-public class Persona {
-private String nombre;
-private String dni;
-}
-````
-Las acciones realizadas son:
-
-| Acción                   | Descripción                                    |
-|:------------------------:|:-----------------------------------------------|
-| Añadir repositorio       | Creamos un repositorio en GitHub               |
-| Subimos carpeta          | Realizamos el primer commit del proyecto       |
-| Añadimos rama            | Creamos rama de desarrollo para el proyecto    |
-| Añadir proyecto a local  | Clonamos el repositorio en local               |
-| Modificamos el proyecto  | Realizamos los correspondientes commit y push  |
-| Comprobamos cambios      | Creamos Pull Request del proyecto              |
-| Fusionamos ramas         | Hacemos un Merge con la rama principal         |
-
-![imagen GitHub](recursos/github.jpg)
-
-***
 
 ### 1.1 Proyectos educativos
 

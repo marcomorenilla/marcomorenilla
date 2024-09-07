@@ -46,16 +46,13 @@ Las acciones realizadas son:
 
 ### 1.1 Proyectos educativos
 
-- [ ] Proyecto Intermodular primero DAM:
+- [x] Proyecto Intermodular primero DAM:
     - [x] ~~Programación~~
     - [x] ~~Bases de datos~~
     - [x] ~~Sistemas Informáticos~~
     - [x] ~~Lenguaje de Marcas~~
-    - [ ] Conectar proyectos:
-       - [x] ~~Crear PHP de parte de Lenguaje de Marcas con BBDD de Bases de Datos~~
-       - [ ] Incluir UML caso de uso
-       - [ ] Incluir diagrama de Gantt
-       - [ ] Avisos legales de web
+    - [x] ~~Crear PHP de parte de Lenguaje de Marcas con BBDD de Bases de Datos~~
+
 
 ***
 
@@ -64,7 +61,7 @@ Las acciones realizadas son:
 - [ ] Tres en Raya en Python
 - [ ] Bot Telegram en Python
 - [ ] Interfaz formulario BBDD en Java
-- [ ] Diseño web con php CV
+- [ ] Diseño web con php para CV
       
 ***
 

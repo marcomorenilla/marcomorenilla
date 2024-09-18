@@ -35,12 +35,4 @@ Soy una persona nueva en el mundo de la **Informática** pero con bastante curio
 Empecé viendo algunas macros de Excel que utilizaba diariamente en mi trabajo y decidí a lanzarme con el estudio de la **FPII** en Desarrollo de Aplicaciones Multiplataforma **DAM** en la **UAX**.
 
 Desde entonces sentarme delante del ordenado poco a poco se ha ido convirtiendo en un **hobby** y cada día tengo más curiosidad por aprender cosas nuevas y afrontar nuevos retos.
-
-***
-
-## 3. Información laboral
-[Marco Antonio Morenilla Alonso](https://es.linkedin.com/in/marco-antonio-morenilla-alonso-826b0490)
-
-![Marco](recursos/linkedin.svg)
-
 ***

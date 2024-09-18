@@ -41,4 +41,6 @@ Desde entonces sentarme delante del ordenado poco a poco se ha ido convirtiendo 
 ## 3. Información laboral
 [Marco Antonio Morenilla Alonso](https://es.linkedin.com/in/marco-antonio-morenilla-alonso-826b0490)
 
+![[Marco](https://es.linkedin.com/in/marco-antonio-morenilla-alonso-826b0490)](recursos/LinkedIn.svg)
+
 ***

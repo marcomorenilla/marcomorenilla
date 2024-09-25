@@ -11,12 +11,12 @@
 
 ### 1.1 Proyectos educativos
 
-- [x] Proyecto Intermodular primero DAM:
-    - [x] ~~Programación~~
-    - [x] ~~Bases de datos~~
-    - [x] ~~Sistemas Informáticos~~
-    - [x] ~~Lenguaje de Marcas~~
-    - [x] ~~Crear PHP de parte de Lenguaje de Marcas con BBDD de Bases de Datos~~
+- [x] Proyecto Intermodular primero DAM: [Proyecto Intermodular](https://github.com/marcomorenilla/proyectoIntermodular)
+    - [x] Programación
+    - [x] BBDD
+    - [x] Sistemas Informáticos
+    - [x] Lenguaje de Marcas
+    - [x] Crear PHP de parte de Lenguaje de Marcas con BBDD de Bases de Datos
 
 
 ***
@@ -25,7 +25,7 @@
 
 - [ ] Tres en Raya en Python
 - [ ] Bot Telegram en Python
-- [ ] Interfaz formulario BBDD en Java
+- [x] Interfaz formulario BBDD en Java: [udemy-app-db](https://github.com/marcomorenilla/udemy-app-db)
 - [ ] Diseño web con php para CV
       
 ***

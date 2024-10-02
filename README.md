@@ -56,4 +56,5 @@ I’m working on improving it, but I apologize if you find any grammatical or sy
 | **proyectoIntermodular** |                Final project from my first course, it includes all course subjects                 |
 |     **udemy-app-db**     | Part of a Udemy course. The goal is to connect a Java app with a DB using hibernate and Java Swing |
 |                          |                                                                                                    |
-                                                                                
+|**meteora_udemy**| Part of a Udemy course. The goal is to start including animation on Java Swing and to get more comfortable with GUI development|
+|**scripts**|Easy scripting that makes my workflow easier|                                                               

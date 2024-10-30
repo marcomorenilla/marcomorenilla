@@ -39,21 +39,17 @@ Empecé viendo algunas macros de Excel que utilizaba diariamente en mi trabajo y
 Desde entonces sentarme delante del ordenado poco a poco se ha ido convirtiendo en un **hobby** y cada día tengo más curiosidad por aprender cosas nuevas y afrontar nuevos retos.
 ***
 
-## 3. Repositories summary
-
-⚠️ Spanish speaker writing in English. What's the worst that could happen? ⚠️
-
-***
-
-I’m working on improving it, but I apologize if you find any grammatical or syntax errors in these repositories. I don’t review every single commit I make. Help and suggestions are always welcome 😊
+## 3. Índice de repositorios
 
 ***
 
 |           Name           |                                            Description                                             |
 | :----------------------: | :------------------------------------------------------------------------------------------------: |
-|    **marcomorenilla**    |                                             Main page                                              |
-|   **elcallejondeelia**   |                              A single project from one course subject                              |
-| **proyectoIntermodular** |                Final project from my first course, it includes all course subjects                 |
-|     **udemy-app-db**     | Part of a Udemy course. The goal is to connect a Java app with a DB using hibernate and Java Swing |                                                                        
-|**meteora_udemy**| Part of a Udemy course. The goal is to start including animation on Java Swing and to get more comfortable with GUI development|
-|**scripts**|Easy scripting that makes my workflow easier|                                                               
+|**marcomorenilla**        |Página principal                                                                                    |
+|**elcallejondeelia**      |Proyecto de la asignatura Entornos de Desarrollo                                                    |
+|**proyectoIntermodular**  |Proyecto final 1º DAM                                                                               |
+|**udemy-app-db**          | Parte de curso Udemy donde conectamos BBDD con Hibernate y GUI con Java Swing                      |                                                                        
+|**meteora_udemy**         |Parte de curso de Udemy donde se crea un juego con Java Swing                                       |
+|**scripts**               |Scripts sencillos que utilizo en Bash                                                               |          
+
+***

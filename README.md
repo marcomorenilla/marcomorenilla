@@ -6,7 +6,7 @@ Soy una persona nueva en el mundo del **Desarrollo de Software** pero con bastan
 
 Actualmente estudio la **FPII** en Desarrollo de Aplicaciones Multiplataforma **DAM** en el **Centro de Formación Profesional Alfonso X El Sabio**.
 
-En **2025** tengo previsto **acabar**, y aunque no tengo experiencia, tengo:
+En **2025** tengo previsto acabar, y aunque no tengo experiencia, tengo:
 
 - Humildad.
 - Ganas de aprender.
@@ -16,7 +16,9 @@ En **2025** tengo previsto **acabar**, y aunque no tengo experiencia, tengo:
 - Paciencia.
 - Muchas cosas más.
 
-Soy consciente que el camino es largo y solamente estoy al principio, por eso acepto muy bien las críticas y agradezco  cualquier ayuda para no cometer  errores, por ello si encuentras algo que crees que esté mal aquí dímelo sin problema y te contestaré con 😺 o con 😅.
+Soy consciente que el camino es largo y solamente estoy al principio, por eso acepto muy bien las críticas y agradezco  cualquier ayuda para no cometer  errores.
+
+Si encuentras algo que crees que esté mal aquí dímelo sin problema y te contestaré con 😺 o con 😅 además de darte las gracias.
 
 ***
 

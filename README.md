@@ -2,7 +2,7 @@
 
 ## Contacto
 
-<a href="https://es.linkedin.com/in/marco-antonio-morenilla-alonso-826b0490"><img src="recursos/linkedin.svg" alt="LinkedIn"/></a>
+
 
 ## Contenido
 

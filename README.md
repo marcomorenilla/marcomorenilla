@@ -1,5 +1,5 @@
 
-# Hola soy Marco!
+# Hola soy Marco! 🌱
 
 Soy una persona nueva en el mundo del **Desarrollo de Software** pero con bastante curiosidad.
 
@@ -15,9 +15,9 @@ En **2025** tengo previsto acabar, y aunque no tengo experiencia, tengo:
 - Paciencia.
 - Muchas cosas más.
 
-Soy consciente que el camino es largo y solamente estoy al principio, por eso acepto muy bien las críticas y agradezco  cualquier ayuda para no cometer  errores.
+Soy consciente que el camino es largo y solamente estoy al principio, por eso acepto muy bien las críticas y agradezco  cualquier ayuda para aprender 👨‍💻.
 
-Si encuentras algo que crees que esté mal aquí dímelo sin problema y te contestaré con 😺 o con 😅 además de darte las gracias.
+Si encuentras algo que crees que esté mal aquí dímelo sin problema y te contestaré con un 🐱 o con 😅 además de darte las gracias.
 
 ***
 
@@ -34,7 +34,7 @@ Si encuentras algo que crees que esté mal aquí dímelo sin problema y te conte
   <a href="https://es.linkedin.com/in/marco-antonio-morenilla-alonso-826b0490">
     <img src="https://skillicons.dev/icons?i=linkedin&perline=2" />
   </a>
-  <a href="mailto:marcomorenilla@gmail.com">
+  <a href="mailto:mmorenilla.dev@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&perline=2&theme=light" />
   </a>
 </p>

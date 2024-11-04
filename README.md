@@ -71,7 +71,7 @@ Si encuentras algo que crees que esté mal aquí dímelo sin problema y te conte
 
 ***
 
-|           Nombr          |                                            Descripción                                             |
+|           Nombre          |                                            Descripción                                             |
 | :----------------------: | :------------------------------------------------------------------------------------------------: |
 |**marcomorenilla**        |Página principal                                                                                    |
 |**elcallejondeelia**      |Proyecto de la asignatura Entornos de Desarrollo                                                    |

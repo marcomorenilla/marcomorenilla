@@ -40,7 +40,7 @@ Si encuentras algo que crees que esté mal aquí dímelo sin problema y te conte
 </p>
 
 ## Habilidades en las que estoy trabajando
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode,java,kotlin,html,css,php,py,aws,git,github,arch,bash,neovim,notion,obsidian&perline=8&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,java,kotlin,mongodb,html,css,php,py,aws,git,github,arch,bash,neovim,notion,obsidian&perline=8&theme=light)](https://skillicons.dev)
 
 ## Contenido
 

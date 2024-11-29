@@ -61,7 +61,7 @@ Si encuentras algo que crees que esté mal aquí dímelo sin problema y te conte
 
 #### 1.2 Proyectos personales
 
-- [ ] Tres en Raya en Python
+- [x] Tres en Raya en Python: [tres-en-raya](https://github.com/marcomorenilla/tres-en-raya)
 - [ ] Bot Telegram en Python
 - [x] Interfaz formulario BBDD en Java: [udemy-app-db](https://github.com/marcomorenilla/udemy-app-db)
 - [ ] Diseño web con php para CV
@@ -80,5 +80,6 @@ Si encuentras algo que crees que esté mal aquí dímelo sin problema y te conte
 |**meteora_udemy**         |Parte de curso de Udemy donde se crea un juego con Java Swing                                       |
 |**scripts**               |Scripts sencillos que utilizo en Bash                                                               |  
 |**ProyectosDAM**          |Proyectos de asignaturas de 2º DAM                                                                  |
+|**tres-en-raya**          |Proyecto fin de curso python essentials de cisco academy                                            |
 
 ***

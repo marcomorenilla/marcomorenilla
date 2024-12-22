@@ -49,7 +49,7 @@ Si encuentras algo que crees que esté mal aquí dímelo sin problema y te conte
 
 #### 1.1 Proyectos educativos
 
-- [x] Proyecto Intermodular primero DAM: [Proyecto Intermodular](https://github.com/marcomorenilla/proyectoIntermodular)
+- [x] Proyecto Intermodular primero DAM: [Proyecto Intermodular](https://github.com/marcomorenilla/proyecto-intermodular)
     - [x] Programación
     - [x] BBDD
     - [x] Sistemas Informáticos
@@ -75,11 +75,11 @@ Si encuentras algo que crees que esté mal aquí dímelo sin problema y te conte
 | :----------------------: | :------------------------------------------------------------------------------------------------: |
 |**marcomorenilla**        |Página principal                                                                                    |
 |**elcallejondeelia**      |Proyecto de la asignatura Entornos de Desarrollo                                                    |
-|**proyectoIntermodular**  |Proyecto final 1º DAM                                                                               |
+|**proyecto-intermodular**  |Proyecto final 1º DAM                                                                               |
 |**udemy-app-db**          | Parte de curso Udemy donde conectamos BBDD con Hibernate y GUI con Java Swing                      |                                                                        
 |**meteora_udemy**         |Parte de curso de Udemy donde se crea un juego con Java Swing                                       |
 |**scripts**               |Scripts sencillos que utilizo en Bash                                                               |  
-|**ProyectosDAM**          |Proyectos de asignaturas de 2º DAM                                                                  |
+|**proyectos-dam**          |Proyectos de asignaturas de 2º DAM                                                                  |
 |**tres-en-raya**          |Proyecto fin de curso python essentials de cisco academy                                            |
 
 ***

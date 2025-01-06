@@ -17,8 +17,6 @@ En **2025** tengo previsto acabar, y aunque no tengo experiencia, tengo:
 
 Soy consciente que el camino es largo y solamente estoy al principio, por eso acepto muy bien las críticas y agradezco  cualquier ayuda para aprender 👨‍💻.
 
-Si encuentras algo que crees que esté mal aquí dímelo sin problema y te contestaré con un 🐱 o con 😅 además de darte las gracias.
-
 ***
 
 > [!NOTE]

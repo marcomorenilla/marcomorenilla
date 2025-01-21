@@ -9,10 +9,10 @@ En **2025** tengo previsto acabar, y aunque no tengo experiencia, tengo:
 
 - Humildad.
 - Ganas de aprender.
-- ~~Ganas de equivocarme~~ Ganas de aprender.
 - Buena actitud.
 - Perseverancia.
 - Paciencia.
+- Pensamiento crítico.
 - Muchas cosas más.
 
 Soy consciente que el camino es largo y solamente estoy al principio, por eso acepto muy bien las críticas y agradezco  cualquier ayuda para aprender 👨‍💻.
@@ -21,7 +21,7 @@ Soy consciente que el camino es largo y solamente estoy al principio, por eso ac
 
 > [!NOTE]
 > 
-> _"Los errores son los portales del descubrimiento"_ - James Joyce
+> _"Somos lo que hacemos repetidamente. La excelencia, entonces, no es un acto, es un hábito."_  - Aristóteles.
 > 
 
 

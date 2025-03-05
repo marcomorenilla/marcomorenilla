@@ -38,7 +38,7 @@ Soy consciente que el camino es largo y solamente estoy al principio, por eso ac
 </p>
 
 ## Habilidades en las que estoy trabajando
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode,java,kotlin,mongodb,html,css,php,py,aws,git,github,arch,bash,neovim,notion,obsidian&perline=8&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,pycharm,java,kotlin,spring,mongodb,postgres,mysql,html,css,php,py,aws,git,github,ubuntu,arch,bash,neovim,notion,obsidian&perline=8&theme=light)](https://skillicons.dev)
 
 ## Contenido
       
@@ -49,12 +49,11 @@ Soy consciente que el camino es largo y solamente estoy al principio, por eso ac
 |           Nombre          |                                            Descripción                                             |
 | :----------------------: | :------------------------------------------------------------------------------------------------: |
 |**marcomorenilla**        |Página principal                                                                                    |
-|**elcallejondeelia**      |Proyecto de la asignatura Entornos de Desarrollo                                                    |
-|**proyecto-intermodular**  |Proyecto final 1º DAM                                                                               |
-|**udemy-app-db**          | Parte de curso Udemy donde conectamos BBDD con Hibernate y GUI con Java Swing                      |                                                                        
-|**meteora_udemy**         |Parte de curso de Udemy donde se crea un juego con Java Swing                                       |
-|**scripts**               |Scripts sencillos que utilizo en Bash                                                               |  
 |**proyectos-dam**          |Proyectos de asignaturas de 2º DAM                                                                  |
+|**proyecto-intermodular**  |Proyecto final 1º DAM                                                                               |
+|**elcallejondeelia**      |Proyecto de la asignatura Entornos de Desarrollo y Lenguaje de Marcas, unificado en proyecto-intermodular|
+|**udemy-app-db**          | Parte de curso Udemy donde conectamos BBDD con Hibernate y GUI con Java Swing                      |                                                                                                            
+|**scripts**               |Scripts sencillos que utilizo en Bash                                                               |  
 |**tres-en-raya**          |Proyecto fin de curso python essentials de cisco academy                                            |
 
 ***

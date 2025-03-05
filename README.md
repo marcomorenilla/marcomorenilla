@@ -41,31 +41,8 @@ Soy consciente que el camino es largo y solamente estoy al principio, por eso ac
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode,java,kotlin,mongodb,html,css,php,py,aws,git,github,arch,bash,neovim,notion,obsidian&perline=8&theme=light)](https://skillicons.dev)
 
 ## Contenido
-
-### 1. Proyectos
-
-
-#### 1.1 Proyectos educativos
-
-- [x] Proyecto Intermodular primero DAM: [Proyecto Intermodular](https://github.com/marcomorenilla/proyecto-intermodular)
-    - [x] Programación
-    - [x] BBDD
-    - [x] Sistemas Informáticos
-    - [x] Lenguaje de Marcas
-    - [x] Crear PHP de parte de Lenguaje de Marcas con BBDD de Bases de Datos
-
-
-***
-
-#### 1.2 Proyectos personales
-
-- [x] Tres en Raya en Python: [tres-en-raya](https://github.com/marcomorenilla/tres-en-raya)
-- [ ] Bot Telegram en Python
-- [x] Interfaz formulario BBDD en Java: [udemy-app-db](https://github.com/marcomorenilla/udemy-app-db)
-- [ ] Diseño web con php para CV
       
-***
-### 3. Índice de repositorios
+### 1. Índice de repositorios
 
 ***
 

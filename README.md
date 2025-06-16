@@ -49,11 +49,9 @@ Soy consciente que el camino es largo y solamente estoy al principio, por eso ac
 |           Nombre          |                                            Descripción                                             |
 | :----------------------: | :------------------------------------------------------------------------------------------------: |
 |**marcomorenilla**        |Página principal                                                                                    |
-|**proyectos-dam**          |Proyectos de asignaturas de 2º DAM                                                                  |
 |**proyecto-intermodular**  |Proyecto final 1º DAM                                                                               |
-|**elcallejondeelia**      |Proyecto de la asignatura Entornos de Desarrollo y Lenguaje de Marcas, unificado en proyecto-intermodular|
 |**udemy-app-db**          | Parte de curso Udemy donde conectamos BBDD con Hibernate y GUI con Java Swing                      |                                                                                                            
-|**scripts**               |Scripts sencillos que utilizo en Bash                                                               |  
 |**tres-en-raya**          |Proyecto fin de curso python essentials de cisco academy                                            |
+|**tfc-dam** | Proyecto fin de curso FP |
 
 ***

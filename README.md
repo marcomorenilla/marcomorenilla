@@ -1,31 +1,10 @@
 
 # Hola soy Marco! 🌱
 
-Soy una persona nueva en el mundo del **Desarrollo de Software** pero con bastante curiosidad.
+Acabo de terminar la **FPII** de **DAM** y estoy listo para llevar mi aprendizaje al siguiente nivel.
 
-Actualmente estudio la **FPII** en Desarrollo de Aplicaciones Multiplataforma **DAM** en el **Centro de Formación Profesional Alfonso X El Sabio**.
+Soy consciente que apenas he comenzado el camino y que tengo mucho por mejorar, por eso agradezco cualquier crítica o sugerencia para crecer 👨‍💻.
 
-En **2025** tengo previsto acabar, y aunque no tengo experiencia, tengo:
-
-- Humildad.
-- Ganas de aprender.
-- Buena actitud.
-- Perseverancia.
-- Paciencia.
-- Pensamiento crítico.
-- Muchas cosas más.
-
-Soy consciente que el camino es largo y solamente estoy al principio, por eso acepto muy bien las críticas y agradezco  cualquier ayuda para aprender 👨‍💻.
-
-***
-
-> [!NOTE]
-> 
-> _"Somos lo que hacemos repetidamente. La excelencia, entonces, no es un acto, es un hábito."_  - Aristóteles.
-> 
-
-
-***
 ## Contacto
 
 <p align="left">
@@ -45,13 +24,12 @@ Soy consciente que el camino es largo y solamente estoy al principio, por eso ac
 ### 1. Índice de repositorios
 
 ***
-
-|           Nombre          |                                            Descripción                                             |
+| Nombre | Descripción |
 | :----------------------: | :------------------------------------------------------------------------------------------------: |
-|**marcomorenilla**        |Página principal                                                                                    |
-|**proyecto-intermodular**  |Proyecto final 1º DAM                                                                               |
-|**udemy-app-db**          | Parte de curso Udemy donde conectamos BBDD con Hibernate y GUI con Java Swing                      |                                                                                                            
-|**tres-en-raya**          |Proyecto fin de curso python essentials de cisco academy                                            |
-|**tfc-dam** | Proyecto fin de curso FP |
+| **[marcomorenilla](https://github.com/marcomorenilla/marcomorenilla)** | Página principal |
+| **[proyecto-intermodular](https://github.com/marcomorenilla/proyecto-intermodular)** | Proyecto final 1º DAM |
+| **[udemy-app-db](https://github.com/marcomorenilla/udemy-app-db)** | Aplicación en Java Swing de un curso de Udemy utilizando Hibernate para el acceso a datos|
+| **[tres-en-raya](https://github.com/marcomorenilla/tres-en-raya)** | Ejercicio de fin de curso python essentials de cisco academy |
+| **[tfc-dam](https://github.com/marcomorenilla/tfc-dam)** | Proyecto fin de curso FP |
 
 ***

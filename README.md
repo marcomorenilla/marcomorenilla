@@ -17,7 +17,7 @@ Soy consciente que apenas he comenzado el camino y que tengo mucho por mejorar, 
 </p>
 
 ## Habilidades en las que estoy trabajando
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode,pycharm,java,kotlin,spring,mongodb,postgres,mysql,html,css,php,py,aws,git,github,ubuntu,arch,bash,neovim,notion,obsidian&perline=8&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,pycharm,java,kotlin,spring,react,mongodb,postgres,mysql,html,css,bootstrap,php,py,aws,git,github,ubuntu,arch,bash,neovim,notion,obsidian&perline=8&theme=light)](https://skillicons.dev)
 
 ## Contenido
       

@@ -8,7 +8,7 @@ Soy consciente que apenas he comenzado el camino y que tengo mucho por mejorar, 
 ## Contacto
 
 <p align="left">
-  <a href="https://es.linkedin.com/in/marco-antonio-morenilla-alonso-826b0490">
+  <a href="https://es.linkedin.com/in/marco-antonio-morenilla-alonso">
     <img src="https://skillicons.dev/icons?i=linkedin&perline=2" />
   </a>
   <a href="mailto:mmorenilla.dev@gmail.com">
